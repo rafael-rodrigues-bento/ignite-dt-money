@@ -2,51 +2,19 @@
   "transactions": [
     {
       "id": 1,
-      "description": "Desenvolvimento de site",
+      "description": "Salario do mês",
       "type": "income",
-      "category": "Venda",
-      "price": 14000,
-      "createdAt": "2023-01-25T01:21:14.033Z"
+      "category": "Pagamento",
+      "price": 3500,
+      "createdAt": "2023-01-26T01:22:14.033Z"
     },
     {
-      "id": 2,
       "description": "Hambúrguer",
-      "type": "outcome",
       "category": "Alimentação",
       "price": 50,
-      "createdAt": "2023-01-25T01:19:34.033Z"
-    },
-    {
-      "id": 3,
-      "description": "Teclado",
       "type": "outcome",
-      "category": "Equipamento",
-      "price": 800,
-      "createdAt": "2023-01-25T18:19:34.033Z"
-    },
-    {
-      "description": "Desenvolvimento de App",
-      "category": "Venda",
-      "price": 3500,
-      "type": "income",
-      "createdAt": "2023-01-25T22:27:48.964Z",
-      "id": 4
-    },
-    {
-      "description": "Teste",
-      "category": "Teste",
-      "price": 1000,
-      "type": "outcome",
-      "createdAt": "2023-01-25T22:30:11.760Z",
-      "id": 5
-    },
-    {
-      "description": "Refrigerante",
-      "category": "Alimentação",
-      "price": 8,
-      "type": "outcome",
-      "createdAt": "2023-01-25T22:41:45.479Z",
-      "id": 6
+      "createdAt": "2023-01-27T01:59:27.447Z",
+      "id": 2
     }
   ]
 }
